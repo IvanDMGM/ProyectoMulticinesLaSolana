@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "917485967797",
+    "firebase_url": "https://multicinelasolana.firebaseio.com",
+    "project_id": "multicinelasolana",
+    "storage_bucket": "multicinelasolana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917485967797:android:843d98f2640d68e92f61fc",
+        "android_client_info": {
+          "package_name": "net.azarquiel.multicineslasolana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917485967797-undn2i43t9luo8lkuieaj735oa0g3phf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2j_kG1mIB0XaNULtxYQKKc90UHw4JEAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917485967797-undn2i43t9luo8lkuieaj735oa0g3phf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

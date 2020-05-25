@@ -1,0 +1,2 @@
+rootProject.name='MulticinesLaSolana'
+include ':app'
